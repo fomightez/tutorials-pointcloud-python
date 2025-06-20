@@ -1,5 +1,5 @@
 Try the 'Tutorials for pointcloud processing in Python' now right in your browswer without installing anything on your own machine or signing up!  
-Click the '`launch binder`'' badge below:
+Click the '`launch binder`'' badge below:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tutorials-pointcloud-python/HEAD)
 
 # Tutorials for pointcloud processing in Python
